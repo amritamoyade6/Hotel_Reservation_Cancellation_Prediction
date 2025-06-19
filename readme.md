@@ -44,6 +44,6 @@ pip install -r requirements.txt
 	•	Provided actionable insights for revenue management and overbooking strategy.
 
 ⸻
+📌 Author
 
-# Author
-	•	Amrita Moyade
+Amrita Moyade
