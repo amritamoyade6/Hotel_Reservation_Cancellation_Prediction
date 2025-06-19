@@ -1,0 +1,13 @@
+txt
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+torch
+transformers
+datasets
+tqdm
+sentence-transformers
+umap-learn
+scipy

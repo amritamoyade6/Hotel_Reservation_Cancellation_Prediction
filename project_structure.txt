@@ -1,0 +1,12 @@
+.
+├── code
+│   └── Hotel_Reservation_Cancellation_Prediction.ipynb
+├── data
+│   └── Hotel Reservations.csv
+├── project_structure.txt
+├── readme.md
+├── requirements.txt
+└── results
+    └── Report.pdf
+
+4 directories, 6 files
