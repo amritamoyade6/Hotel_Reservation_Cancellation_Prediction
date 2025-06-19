@@ -43,7 +43,7 @@ pip install -r requirements.txt
 	•	Identified key predictors: lead_time, booking_changes, customer_type, deposit_type.
 	•	Provided actionable insights for revenue management and overbooking strategy.
 
-⸻
+
 📌 Author
 
 Amrita Moyade
